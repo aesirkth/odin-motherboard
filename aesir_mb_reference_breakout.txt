@@ -1,0 +1,41 @@
+AESIR MOTHERBOARD READ.ME
+
+
+U1 - Teensy V3.6
+U2 - MPU-9250
+U3 - BMP180
+U4 - Motherboard Plate
+
+C1 - 0.1 uF for BMP180
+
+R1 - 1k Ohm for Q1
+R2 - 1k Ohm for Q2
+R3 - 1k Ohm for Q3
+
+R5 - 1k Ohm for Umbilical +5V
+R6 - 1k Ohm for Go Pro +5V
+R7 - 1k Ohm for Servo Pin
+
+Q1 - MOSFET for for Tel I/O 
+Q2 - MOSFET for for Go Pro I/O
+Q3 - MOSFET for Tx Video/Cam I/O
+
+J1 - Umbilical - GND
+J2 - Go Pro - +5V
+J3 - Umbilical - Rx
+J4 - Umbilical - Tx
+J5 - Umbilical - +5V
+J6 - Go Pro - GND
+J8 - GPS - GND
+J9 - M3 Drain to Tx Video/Cam
+J10 - GPS - Rx
+J12 - Safety Pin - IN
+J13 - Safety Pin - OUT
+J14 - Safety Pin - 5V
+J15 - Vin - +5.5V
+J16 - Servi - +5V
+J17 - Servo - GND
+J18 - GPS - Tx
+J19 - Telemetry - GND
+J20 - Telemetry - Rx
+J21 - Telemetry - Tx
