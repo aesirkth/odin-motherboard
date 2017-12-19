@@ -13,3 +13,7 @@ Download the schematic symbols and footprints from:
 https://github.com/XenGi/teensy_library 
 
 https://github.com/XenGi/teensy.pretty
+
+
+
+Watch our progress at http://aesir.se/!
