@@ -6,19 +6,22 @@ U2 - MPU-9250
 U3 - BMP180
 U4 - Motherboard Plate
 
-C1 - 0.1 uF for BMP180
+C1 - 0.1 uF Capacitor for BMP180
 
-R1 - 1k Ohm for Q1
-R2 - 1k Ohm for Q2
-R3 - 1k Ohm for Q3
+R1 - 1k Ohm resistor for Q1
+R2 - 1k Ohm resistor for Q2
+R3 - 1k Ohm resistor for Q3
 
-R5 - 1k Ohm for Umbilical +5V
-R6 - 1k Ohm for Go Pro +5V
-R7 - 1k Ohm for Servo Pin
+R5 - 1k Ohm resistor for Umbilical +5V
+R6 - 1k Ohm resistor for Go Pro +5V
+R7 - 1k Ohm resistor for Servo Pin
 
 Q1 - MOSFET for for Tel I/O 
 Q2 - MOSFET for for Go Pro I/O
 Q3 - MOSFET for Tx Video/Cam I/O
+
+
+Breakout pads for external connections in rocket:
 
 J1 - Umbilical - GND
 J2 - Go Pro - +5V
