@@ -1,4 +1,4 @@
-update=2017 December 04, Monday 17:43:25
+update=2017 December 19, Tuesday 18:36:40
 version=1
 last_client=kicad
 [cvpcb]
@@ -25,9 +25,19 @@ SolderMaskMinWidth=0
 DrawSegmentWidth=0.2
 BoardOutlineThickness=0.15
 ModuleOutlineThickness=0.15
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
 [eeschema]
 version=1
-LibDir=../../../../../../../../Desktop/KiCad Libraries
+LibDir=/Users/bjorn/Desktop/KiCad Libraries/library
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -60,13 +70,4 @@ LibName28=contrib
 LibName29=valves
 LibName30=teensy_library-master/teensy
 LibName31=/Users/bjorn/Desktop/KiCad Libraries/teensy_library-master/teensy
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=60
+LibName32=aesir

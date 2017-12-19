@@ -36,7 +36,7 @@ J12 - Safety Pin - IN
 J13 - Safety Pin - OUT
 J14 - Safety Pin - 5V
 J15 - Vin - +5.5V
-J16 - Servi - +5V
+J16 - Servo - +5V
 J17 - Servo - GND
 J18 - GPS - Tx
 J19 - Telemetry - GND
